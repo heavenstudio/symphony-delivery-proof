@@ -1,0 +1,9 @@
+# A throwaway project for rehearsing a land delivered by pull request (the Symphony's
+# tools/github-delivery-on-this-repository). Nothing here is a product.
+
+[project]
+name = "Delivery proof"
+id = "delivery-proof"
+
+[land]
+check = false
