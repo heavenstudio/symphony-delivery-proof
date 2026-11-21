@@ -5,3 +5,5 @@ Landed here with delivery off.
 One App delivered this line on 2026-11-21.
 One App delivered this line too, closed by the watcher.
 Landed here again after the way back.
+Head A of the fixes' rehearsal.
+Head B, committed after A was armed.
