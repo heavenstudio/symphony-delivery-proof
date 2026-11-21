@@ -7,4 +7,3 @@ id = "delivery-proof"
 
 [land]
 check = false
-delivery = ["symphony-github", "deliver"]
